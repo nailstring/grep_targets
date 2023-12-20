@@ -1,0 +1,7 @@
+This is a sample text file.
+You can use grep to search for specific patterns in this file.
+grep is a powerful tool for text processing.
+It can find and display lines that match a given pattern.
+This file is just an example, but you can create and search larger files as well.
+grep can be used with regular expressions to perform more complex searches.
+Have fun experimenting with grep!
